@@ -1,0 +1,19 @@
+.notification-opening {
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.notification-content {
+  height: 50vh;
+  width: max-content;
+  overflow-y: scroll;
+  margin-bottom: 20px;
+}
+.notification-button-ctn {
+  margin: 10px;
+  display: flex;
+  gap: 10px;
+}
